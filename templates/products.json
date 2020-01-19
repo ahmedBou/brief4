@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Anka",
+        "price": 10000.99,
+        "image": { "fields": { "file": { "url": "./images/anka.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "travel all over the world on baloon",
+        "price": 120000.99,
+        "image": { "fields": { "file": { "url": "./images/astra.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Roma",
+        "price": 12000.99,
+        "image": { "fields": { "file": { "url": "./images/cathedral.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Morocco",
+        "price": 2200.99,
+        "image": { "fields": { "file": { "url": "./images/cathedral.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Tibet",
+        "price": 8800.99,
+        "image": { "fields": { "file": { "url": "./images/free.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "road66",
+        "price": 3200.99,
+        "image": { "fields": { "file": { "url": "./images/road.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Venise",
+        "price": 4500.99,
+        "image": { "fields": { "file": { "url": "./images/venise.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "anywhere",
+        "price": 3033.99,
+        "image": { "fields": { "file": { "url": "./images/word.jpg" } } }
+      }
+    }
+  ]
+}
